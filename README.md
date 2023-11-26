@@ -1,6 +1,11 @@
 # uber-trips-analysis-using-python
 
+<div align="center">
+
 ![Screenshot from 2023-11-26 22-15-39](https://github.com/mGunawardhana/uber-trips-analysis-using-python/assets/100486080/c4644a4a-913f-4270-8e10-60b9fc431f09)
+
+
+</div>
 
 <div align="center">
 
@@ -24,10 +29,9 @@
 
 <div align="center">
 
-<h2>Tools</h2>
+<h2>Languages & Tools</h2>
      <img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
      <br>
-  <h2> LANGUAGES AND FRAMEWORKS </h2>
  
 
 </div>
